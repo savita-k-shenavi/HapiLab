@@ -1,0 +1,22 @@
+{
+  "name": "apicatelog",
+  "version": "1.0.0",
+  "description": "apicatelog",
+  "main": "test.js",
+  "scripts": {
+    "test": "lab -v test.js"    
+  },
+  "author": "savita",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "boom": "^4.2.0",
+    "code": "^4.0.0",
+    "hapi": "^16.1.0",
+    "hapi-swagger": "^7.6.0",
+    "inert": "^4.1.0",
+    "lab": "^12.1.0",
+    "mongodb": "^2.2.22",
+    "vision": "^4.1.1"
+  }
+}
